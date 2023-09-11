@@ -1,3 +1,7 @@
 export default function Home() {
-  return (<div> Portfolio-template </div>)
+  return (
+    <main className="">
+      Portfolio-template
+    </main>
+  )
 }
